@@ -1,0 +1,2 @@
+# Dmy
+Djang first project
